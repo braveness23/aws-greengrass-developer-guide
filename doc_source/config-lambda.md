@@ -1,5 +1,7 @@
 # Configure the Lambda Function for AWS Greengrass<a name="config-lambda"></a>
 
+The screenshots on this page are outdated and do not reflect the changes made in Greengrass 1.3.0.
+
 You are now ready to configure your Lambda function for AWS Greengrass\.
 
 1. In the AWS IoT console, under **Greengrass**, choose **Groups**, and then choose the group that you created in [Module 2](module2.md)\.
